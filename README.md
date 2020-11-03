@@ -1,6 +1,6 @@
-react redux basit login uygulaması material ui - react-redux-simple-login-application material ui   
+react redux basic login
 
-cd react-redux-simple-login-application  
-yarn   
-yarn start  
+How to start:
+1. npm install   
+2. npm start  
 
